@@ -55,4 +55,4 @@ const userRouter = (app) => {
         })
 }
 
-module.exports = userRouter
+module.exports = userRoute
